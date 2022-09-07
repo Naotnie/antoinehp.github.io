@@ -1,0 +1,7 @@
+body{background-image:url(images/parc.jpg)}
+h1{color: red;text-align: center;}
+h3 a{color: yellow;}
+#menu{float: right;margin-right: 100px;}
+#contact{position: absolute;bottom: 10px;right: 100px;}
+#poisson{position: absolute;bottom: 10px;right: 400px;}
+#marmotte{position: absolute;bottom: 130px;left: 50px;width: 132px;height: 102px;}
